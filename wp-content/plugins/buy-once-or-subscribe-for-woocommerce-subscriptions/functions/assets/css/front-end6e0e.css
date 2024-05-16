@@ -1,0 +1,12 @@
+.bos4w-display-options ul {
+	list-style-type: none;
+	margin-left: 0;
+}
+.bos4w-display-options ul li {
+	margin-left: 0;
+}
+
+.bos4w-display-dropdown {
+	display: none;
+	margin-bottom: 15px;
+}
